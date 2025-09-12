@@ -48,7 +48,7 @@ Planned enhancements to make Victor Assistant more **intelligent and adaptive** 
 ### Telegram User Chat Interface 
 <img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/dd46f319-5591-4482-b410-61becea6d63a" />
 
-#### You can interact with the bot here - t.me/VictorAutoBOT
+#### You can interact with the bot here - [Victor Assistant](t.me/VictorAutoBOT)
 
 ---
 
