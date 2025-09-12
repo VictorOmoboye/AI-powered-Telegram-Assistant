@@ -37,8 +37,6 @@ With this setup, Victor Assistant can:
 <img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/dd46f319-5591-4482-b410-61becea6d63a" />
 
 
-<img width="932" height="1280" alt="image" src="https://github.com/user-attachments/assets/7ed51dd4-ca69-45bc-8eb2-162410b0521a" />
-
 
 
 ## Future Upgrades
