@@ -29,15 +29,6 @@ With this setup, Victor Assistant can:
 → Deliver real-time news and weather updates (time-zone aware).  
 
 ---
-## Project Screenshot
-### Workflow (N8N)
-<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/c729436e-baa9-4052-901b-cd211ec3946b" />
-
-### Telegram user interface 
-<img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/dd46f319-5591-4482-b410-61becea6d63a" />
-
-
-
 
 ## Future Upgrades
 Planned enhancements to make Victor Assistant more **intelligent and adaptive** include:  
@@ -46,4 +37,25 @@ Planned enhancements to make Victor Assistant more **intelligent and adaptive** 
 - **Personal Knowledge Base** – Ability to learn from user documents (PDFs, notes, knowledge files).  
 - **Task Automation** – Calendar integration, reminders, and smart task execution.  
 - **Advanced Memory** – Long-term memory with context prioritization for richer conversations.  
-- **Plugin Ecosystem** – Extendable modules for finance, healthcare, or personal productivity use cases. 
+- **Plugin Ecosystem** – Extendable modules for finance, healthcare, or personal productivity use cases.
+
+---
+
+## Project Screenshot
+### Workflow (N8N)
+<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/c729436e-baa9-4052-901b-cd211ec3946b" />
+
+### Telegram User Chat Interface 
+<img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/dd46f319-5591-4482-b410-61becea6d63a" />
+
+#### You can interact with the bot here - t.me/VictorAutoBOT
+
+---
+
+## THANK YOU
+For more information, you can contact me
+![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
+
+
+
+
