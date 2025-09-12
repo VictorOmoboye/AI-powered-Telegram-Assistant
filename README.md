@@ -29,7 +29,7 @@ With this setup, Victor Assistant can:
 
 ---
 
-## 🔮 Future Upgrades
+## Future Upgrades
 Planned enhancements to make Victor Assistant more **intelligent and adaptive** include:  
 
 - **Voice Integration** – Support for speech-to-text and text-to-speech for hands-free interaction.  
