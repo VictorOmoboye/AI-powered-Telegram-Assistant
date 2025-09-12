@@ -1,6 +1,7 @@
 # AI POWERED TELEGRAM ASSISTAN
 ## A Multi-Capable AI Agent Built on N8n and OpenAI
 <img width="2000" height="1119" alt="image" src="https://github.com/user-attachments/assets/bf625394-388d-4a21-bf01-f5e0dea9c5b4" />
+
 # Victor Assistant 🤖
 
 An AI-powered Telegram Agent built with **N8n** for intelligent real-time interaction, reasoning, image analysis, and web insights.
@@ -28,6 +29,14 @@ With this setup, Victor Assistant can:
 → Deliver real-time news and weather updates (time-zone aware).  
 
 ---
+## Project Screenshot
+### Workflow (N8N)
+<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/c729436e-baa9-4052-901b-cd211ec3946b" />
+
+### Telegram user interface 
+<img width="932" height="1280" alt="image" src="https://github.com/user-attachments/assets/7ed51dd4-ca69-45bc-8eb2-162410b0521a" />
+
+
 
 ## Future Upgrades
 Planned enhancements to make Victor Assistant more **intelligent and adaptive** include:  
@@ -36,4 +45,4 @@ Planned enhancements to make Victor Assistant more **intelligent and adaptive** 
 - **Personal Knowledge Base** – Ability to learn from user documents (PDFs, notes, knowledge files).  
 - **Task Automation** – Calendar integration, reminders, and smart task execution.  
 - **Advanced Memory** – Long-term memory with context prioritization for richer conversations.  
-- **Plugin Ecosystem** – Extendable modules for finance, healthcare, or personal productivity use cases.  
+- **Plugin Ecosystem** – Extendable modules for finance, healthcare, or personal productivity use cases. 
