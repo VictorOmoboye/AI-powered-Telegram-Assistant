@@ -42,8 +42,8 @@ Planned enhancements to make Victor Assistant more **intelligent and adaptive** 
 ---
 
 ## Project Screenshot
-### Workflow (N8N)
-<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/c729436e-baa9-4052-901b-cd211ec3946b" />
+### Workflow Template (N8N)
+<img width="1748" height="820" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/1dfc26b0-5355-496c-9606-2ef5526d4a66" />
 
 ### Telegram User Chat Interface 
 <img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/dd46f319-5591-4482-b410-61becea6d63a" />
