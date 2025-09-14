@@ -38,6 +38,7 @@ Planned enhancements to make Victor Assistant more **intelligent and adaptive** 
 - **Task Automation** – Calendar integration, reminders, and smart task execution.  
 - **Advanced Memory** – Long-term memory with context prioritization for richer conversations.  
 - **Plugin Ecosystem** – Extendable modules for finance, healthcare, or personal productivity use cases.
+- **Video Analysis** 
 
 ---
 
