@@ -50,7 +50,9 @@ Planned enhancements to make Victor Assistant more **intelligent and adaptive** 
 <img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/dd46f319-5591-4482-b410-61becea6d63a" />
 
 → Check current UK weather
+
 → Check AI & Data Trends.
+
 → Interact with my gmail directly(Send, receive and reply to my mails)
 <img width="1280" height="638" alt="image" src="https://github.com/user-attachments/assets/8aa06fbc-adb0-4cef-b40a-a9a9f118c358" />
 
