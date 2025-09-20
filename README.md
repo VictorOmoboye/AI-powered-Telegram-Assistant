@@ -18,27 +18,20 @@ Most personal assistants are limited in scope—they either provide simple chat 
 
 - **Telegram API** – Enables seamless chat interactions.  
 - **OpenAI GPT-5** – Provides advanced reasoning and natural language responses.  
-- **OpenAI GPT-4.0 (Vision)** – Analyzes images shared in real-time.  
+- **OpenAI GPT-4.0 (Vision)** – Analyzes images shared in real-time.
+- **Gemini 2.5-flash** - Analyze Videos 
 - **Memory Module** – Stores conversation history, enabling context retention across chats.  
 - **Tavily API** – Fetches real-time news, AI trends, and current weather updates.  
 
 With this setup, Victor Assistant can:  
 → Chat naturally and remember past interactions.  
-→ Analyze and describe images in real-time.  
+→ Handle my emails—directly from Telegram (Send, Receive and Reply emails)
+→ Analyze and describe images and video in real-time.  
 → Provide the latest AI trends and insights.  
-→ Deliver real-time news and weather updates (time-zone aware).  
-
----
-
-## Future Upgrades
-Planned enhancements to make Victor Assistant more **intelligent and adaptive** include:  
-
-- **Voice Integration** – Support for speech-to-text and text-to-speech for hands-free interaction.  
-- **Personal Knowledge Base** – Ability to learn from user documents (PDFs, notes, knowledge files).  
-- **Task Automation** – Calendar integration, reminders, and smart task execution.  
-- **Advanced Memory** – Long-term memory with context prioritization for richer conversations.  
-- **Plugin Ecosystem** – Extendable modules for finance, healthcare, or personal productivity use cases.
-- **Video Analysis** 
+→ Deliver real-time news and weather updates (time-zone aware). 
+→ Record and understand voice messages
+→ Convert files into text
+→ Support multiple languages (audio & text)
 
 ---
 
