@@ -23,15 +23,16 @@ Most personal assistants are limited in scope—they either provide simple chat 
 - **Memory Module** – Stores conversation history, enabling context retention across chats.  
 - **Tavily API** – Fetches real-time news, AI trends, and current weather updates.  
 
-With this setup, Victor Assistant can:  
-→ Chat naturally and remember past interactions.  
-→ Handle my emails—directly from Telegram (Send, Receive and Reply emails)
-→ Analyze and describe images and video in real-time.  
-→ Provide the latest AI trends and insights.  
-→ Deliver real-time news and weather updates (time-zone aware).
-→ Record and understand voice message.
-→ Convert files into text for quick insights.
-→ Support multiple languages (audio & text)
+### ✅ Current Capabilities  
+Victor Assistant can:  
+→ Chat naturally and remember past interactions  
+→ Handle emails directly from Telegram *(Send, Receive & Reply)*  
+→ Analyze and describe images & videos in real-time  
+→ Provide the latest AI trends and insights  
+→ Deliver real-time news and weather updates (time-zone aware)  
+→ Record and understand voice messages  
+→ Convert files into text for quick insights  
+→ Support multiple languages (audio & text)  
 
 ##### Nb: My personal email account was deactivated for data privacy.
 ---
