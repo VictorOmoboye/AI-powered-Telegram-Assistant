@@ -28,11 +28,12 @@ With this setup, Victor Assistant can:
 → Handle my emails—directly from Telegram (Send, Receive and Reply emails)
 → Analyze and describe images and video in real-time.  
 → Provide the latest AI trends and insights.  
-→ Deliver real-time news and weather updates (time-zone aware). 
-→ Record and understand voice messages
-→ Convert files into text
+→ Deliver real-time news and weather updates (time-zone aware).
+→ Record and understand voice message.
+→ Convert files into text for quick insights.
 → Support multiple languages (audio & text)
 
+##### Nb: My personal email account was deactivated for data privacy.
 ---
 
 ## Project Screenshot
@@ -43,9 +44,7 @@ With this setup, Victor Assistant can:
 <img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/dd46f319-5591-4482-b410-61becea6d63a" />
 
 → Check current UK weather
-
 → Check AI & Data Trends.
-
 → Interact with my gmail directly(Send, receive and reply to my mails)
 <img width="1280" height="638" alt="image" src="https://github.com/user-attachments/assets/8aa06fbc-adb0-4cef-b40a-a9a9f118c358" />
 
