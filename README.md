@@ -1,6 +1,6 @@
 # AI POWERED TELEGRAM ASSISTAN
 ## A Multi-Capable AI Agent Built on N8n and OpenAI
-<img width="949" height="526" alt="image" src="https://github.com/user-attachments/assets/287ee936-ff39-438b-bb21-080f49da9fd2" />
+<img width="945" height="529" alt="image" src="https://github.com/user-attachments/assets/9afc58af-4317-4648-b5d8-d98490ed6c8d" />
 
 # Victor Assistant 🤖
 
